@@ -254,7 +254,7 @@ header {
   }
 
   .scroll-text, .backend-dev {
-    font-size: 8vw; /* Adjust font size for smaller screens */
+    font-size: 11vw; /* Adjust font size for smaller screens */
   }
 
   #home p {
@@ -262,7 +262,8 @@ header {
   }
 
   .home-content {
-    padding: 0 10px; /* Reduce padding for smaller screens */
+    padding: 0 10px;
+    margin-top: -10px;  /* Reduce padding for smaller screens */
   }
 }
 
