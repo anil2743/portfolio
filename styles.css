@@ -245,8 +245,8 @@ header {
 
 @media (max-width: 768px) { /* Mobile view */
   .photo {
-    width: 200px; /* Smaller photo for mobile */
-    height: 200px;
+    width: 300px; /* Smaller photo for mobile */
+    height: 300px;
   }
 
   .social-icons a {
@@ -263,7 +263,7 @@ header {
 
   .home-content {
     padding: 0 10px;
-    margin-top: -10px;  /* Reduce padding for smaller screens */
+    margin-top: -30px;  /* Reduce padding for smaller screens */
   }
 }
 
